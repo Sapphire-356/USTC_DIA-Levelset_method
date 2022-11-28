@@ -2,6 +2,8 @@
 
 Matlab implemetion for "Level set evolution without re-initialization: a new variational formulation." CVPR, 2005.
 
+注：本代码依据zhyx12的代码修改。
+
 ## 新增文件
 
 作业要求：依据作业压缩包提供的参考代码，实现新的演化方程，完成图像分割。
