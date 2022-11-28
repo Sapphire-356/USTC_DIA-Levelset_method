@@ -28,3 +28,8 @@ my_demo.m为主函数，其中line 18可以修改输入图片，line 37-40可修
 
 除”vessel.bmp”外，其余输入图像的分割效果均较好。
 
+## 可能有用的链接
+
+关于水平集分割：https://www.zhihu.com/question/22608763/answer/46883386
+
+关于符号距离函数（Signed Distance Function）：https://blog.csdn.net/lusongno1/article/details/122024440
