@@ -11,8 +11,11 @@ Matlab implemetion for "Level set evolution without re-initialization: a new var
 修改增加文件如下：
 
 my_demo.m  #主函数
+
 my_evolution_cv.m  # 演化方程的实现
+
 my_edge_indicator.m  # 即演化方程的g，可参考论文3.2.第一段的描述
+
 my_Delta.m  # 新的Delta函数
 
 ## 运行说明
